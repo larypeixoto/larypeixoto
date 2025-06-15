@@ -1,4 +1,4 @@
-## Lary Peixoto 🩵
+## Lary Peixoto 
 
 **`Desenvolvedora FullStack em Desenvolvimento`** 🎓
 
