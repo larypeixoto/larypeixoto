@@ -54,7 +54,7 @@ Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Ser
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Atividade & Tecnologias
 
 <p>
   <img 
