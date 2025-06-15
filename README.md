@@ -6,27 +6,27 @@ Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Ser
 
 ---
 
-### ☕ Linguagens e Tecnologias
+### ☕ Linguagens em Desenvolvimento
 
 <img 
-    align="left" 
+    align="left"
     alt="HTML"
-    title="HTML" 
+    title="HTML"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
-    alt="CSS" 
+    align="left"
+    alt="CSS"
     title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 <img 
-    align="left" 
-    alt="JavaScript" 
+    align="left"
+    alt="JavaScript"
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
@@ -60,7 +60,7 @@ Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Ser
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150"
+    height="160"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=larypeixoto&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
@@ -68,7 +68,7 @@ Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Ser
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="160" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larypeixoto&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
