@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack em Desenvolvimento`** 🎓
 
-Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Serra dos Órgãos (UNIFESO) e residente em TIC/Software pelo SERRATEC | SENAI. Em busca de desafios que me permitam evoluir como desenvolvedora e contribuir com soluções criativas.
+Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Serra dos Órgãos (UNIFESO). Full Stack pelo programa de residência TIC/Software pelo SERRATEC e FIRJAN SENAI.
 
 ---
 
@@ -16,6 +16,7 @@ Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Ser
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left"
     alt="CSS"
@@ -24,6 +25,7 @@ Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Ser
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
+
 <img 
     align="left"
     alt="JavaScript"
@@ -31,6 +33,47 @@ Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Ser
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PHP"
+    title="PHP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### ☕ Frameworks e Bibliotecas em Desenvolvimento
+
+<img
+    align="left"
+    alt="TypeScript"
+    title="TypeScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
 
 <img 
@@ -44,32 +87,39 @@ Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Ser
 
 <img 
     align="left" 
-    alt="Java"
-    title="Java" 
+    alt="Angular"
+    title="Angular" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
 
 <br/>
 <br/>
 
-### 📊 Atividade & Tecnologias
+### 📊 Atividade & Tecnologias nos Projetos Disponíveis
 
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="170"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=larypeixoto&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=larypeixoto&show_icons=true&theme=dark&include_all_commits=true" 
+  />
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=larypeixoto&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larypeixoto&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<br/>
+<br/>
 
-</p>
+<br clear="both"/>
+
+
+### 📫 Contato
+
+Email: dev.laryssa.peixot@gmail.com <br/>
+LinkedIn: https://www.linkedin.com/in/laryssapeixoto/
